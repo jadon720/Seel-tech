@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Seel Tech L.L.C.</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 0; padding: 0; background-color: #f4f4f4; }
+        header { background: #003366; color: white; padding: 20px; text-align: center; font-size: 24px; }
+        section { padding: 20px; max-width: 800px; margin: auto; background: white; box-shadow: 0px 0px 10px rgba(0,0,0,0.1); }
+        h2 { color: #003366; }
+        footer { text-align: center; padding: 10px; background: #003366; color: white; position: fixed; bottom: 0; width: 100%; }
+    </style>
+</head>
+<body>
+    <header>
+        Seel Tech L.L.C.
+    </header>
+    <section>
+        <h2>About Us</h2>
+        <p>Seel Tech L.L.C. is a Lebanon-based company specializing in general trading, technology, and AI solutions. We focus on importing and exporting electronic devices, IT services, and website management while ensuring innovative and reliable solutions for our clients.</p>
+        
+        <h2>Our Services</h2>
+        <ul>
+            <li>General Trading</li>
+            <li>Import & Export of Electronics and IT Solutions</li>
+            <li>Artificial Intelligence & Data Processing</li>
+            <li>Website Management & Marketing (excluding financial services)</li>
+        </ul>
+    </section>
+    <footer>
+        &copy; 2025 Seel Tech L.L.C. | All Rights Reserved
+    </footer>
+</body>
+</html>
